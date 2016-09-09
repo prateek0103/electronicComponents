@@ -1,5 +1,5 @@
 # Interesting Electronic Components
-Here are some components that I recently bought from AliExpress [store](https://www.aliexpress.com/store/535576), would interface them with a Cortex M7 MCU and post my results here.
+Here are some components that I recently bought from [AliExpress store](https://www.aliexpress.com/store/535576), would interface them with a Cortex M7 MCU and post my results here.
 
 ##List of items
 | Item                | Datasheet     |

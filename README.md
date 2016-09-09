@@ -9,6 +9,7 @@ Here are some components that I recently ordered from AliExpress, would interfac
 | Ai Thinker ESP8266       | [Yes](https://cdn-shop.adafruit.com/product-files/2471/0A-ESP8266__Datasheet__EN_v4.3.pdf)      |
 | HLK PM01 Power Module       | [Yes](http://www.hlktech.net/product_detail.php?ProId=54)      |
 | AM2302 Temp/Humidity Sensor       | [Yes](https://cdn-shop.adafruit.com/datasheets/Digital+humidity+and+temperature+sensor+AM2302.pdf)      |
-| TEC12707 Thermoelectric Module       | [Yes](http://www.thermonamic.com/TEC1-12706-English.PDF)|
-
+| TEC12706 Thermoelectric Module       | [Yes](http://www.thermonamic.com/TEC1-12706-English.PDF) |
+| G3MB 202P Solid State Relay | [Yes](https://www.openhacks.com/uploadsproductos/g3mb-ssr-datasheet_55.pdf) |
+| WS2812 RGB LED | [Yes](https://cdn-shop.adafruit.com/datasheets/WS2812.pdf) |
 

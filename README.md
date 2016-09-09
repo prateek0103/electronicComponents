@@ -12,4 +12,4 @@ Here are some components that I recently bought from [AliExpress store](https://
 | TEC12706 Thermoelectric Module       | [Yes](http://www.thermonamic.com/TEC1-12706-English.PDF) |
 | G3MB 202P Solid State Relay | [Yes](https://www.openhacks.com/uploadsproductos/g3mb-ssr-datasheet_55.pdf) |
 | WS2812 RGB LED | [Yes](https://cdn-shop.adafruit.com/datasheets/WS2812.pdf) |
-
+| 0.96" OLED Monochrome Display 128x64 | [Yes](https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf) |
